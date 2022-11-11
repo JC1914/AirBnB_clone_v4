@@ -155,4 +155,4 @@ No known bugs at this time.
 
 ## Authors
 Kipronoh Vincent - [Github](https://github.com/KipronohVincent)
-Zebbylion Njau - [Github](https://github.com/zebbyG)
+Rose Wangari - [Github](https://github.com/RoseIrungu)
